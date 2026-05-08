@@ -12,7 +12,7 @@
 ### 安装
 
 ```bash
-pip install jupyter pandas numpy matplotlib scikit-learn
+pip install -r requirements.txt
 ```
 
 ## 使用方式
